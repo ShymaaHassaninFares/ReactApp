@@ -1,0 +1,284 @@
+C:\Users\shymaa.hassanin\source\repos\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\shymaa.hassanin\source\repos\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\shymaa.hassanin\source\repos\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\ProductAPI.exe
+C:\Users\shymaa.hassanin\source\repos\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\ProductAPI.deps.json
+C:\Users\shymaa.hassanin\source\repos\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\ProductAPI.runtimeconfig.json
+C:\Users\shymaa.hassanin\source\repos\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\ProductAPI.runtimeconfig.dev.json
+C:\Users\shymaa.hassanin\source\repos\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\ProductAPI.dll
+C:\Users\shymaa.hassanin\source\repos\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\ProductAPI.pdb
+C:\Users\shymaa.hassanin\source\repos\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\shymaa.hassanin\source\repos\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\shymaa.hassanin\source\repos\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\shymaa.hassanin\source\repos\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\shymaa.hassanin\source\repos\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\shymaa.hassanin\source\repos\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\shymaa.hassanin\source\repos\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\shymaa.hassanin\source\repos\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\shymaa.hassanin\source\repos\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\shymaa.hassanin\source\repos\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\shymaa.hassanin\source\repos\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\shymaa.hassanin\source\repos\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\shymaa.hassanin\source\repos\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\shymaa.hassanin\source\repos\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\shymaa.hassanin\source\repos\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\shymaa.hassanin\source\repos\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\shymaa.hassanin\source\repos\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\shymaa.hassanin\source\repos\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\shymaa.hassanin\source\repos\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\shymaa.hassanin\source\repos\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\shymaa.hassanin\source\repos\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\shymaa.hassanin\source\repos\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\shymaa.hassanin\source\repos\ProductAPI\ProductAPI\obj\Debug\netcoreapp3.1\ProductAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shymaa.hassanin\source\repos\ProductAPI\ProductAPI\obj\Debug\netcoreapp3.1\ProductAPI.AssemblyInfoInputs.cache
+C:\Users\shymaa.hassanin\source\repos\ProductAPI\ProductAPI\obj\Debug\netcoreapp3.1\ProductAPI.AssemblyInfo.cs
+C:\Users\shymaa.hassanin\source\repos\ProductAPI\ProductAPI\obj\Debug\netcoreapp3.1\ProductAPI.csproj.CoreCompileInputs.cache
+C:\Users\shymaa.hassanin\source\repos\ProductAPI\ProductAPI\obj\Debug\netcoreapp3.1\ProductAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\shymaa.hassanin\source\repos\ProductAPI\ProductAPI\obj\Debug\netcoreapp3.1\staticwebassets\ProductAPI.StaticWebAssets.Manifest.cache
+C:\Users\shymaa.hassanin\source\repos\ProductAPI\ProductAPI\obj\Debug\netcoreapp3.1\ProductAPI.RazorTargetAssemblyInfo.cache
+C:\Users\shymaa.hassanin\source\repos\ProductAPI\ProductAPI\obj\Debug\netcoreapp3.1\ProductAPI.csproj.CopyComplete
+C:\Users\shymaa.hassanin\source\repos\ProductAPI\ProductAPI\obj\Debug\netcoreapp3.1\ProductAPI.dll
+C:\Users\shymaa.hassanin\source\repos\ProductAPI\ProductAPI\obj\Debug\netcoreapp3.1\ProductAPI.pdb
+C:\Users\shymaa.hassanin\source\repos\ProductAPI\ProductAPI\obj\Debug\netcoreapp3.1\ProductAPI.genruntimeconfig.cache
+C:\Users\shymaa.hassanin\source\repos\ProductAPI\ProductAPI\obj\Debug\netcoreapp3.1\ProductAPI.csproj.AssemblyReference.cache
+C:\Users\shymaa.hassanin\source\repos\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\Product.Data.dll
+C:\Users\shymaa.hassanin\source\repos\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\Product.Data.pdb
+D:\Practice\REST .NET Core API\Exercise\ProductAPI\ProductAPI\obj\Debug\netcoreapp3.1\ProductAPI.csproj.AssemblyReference.cache
+D:\Practice\REST .NET Core API\Exercise\ProductAPI\ProductAPI\obj\Debug\netcoreapp3.1\ProductAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practice\REST .NET Core API\Exercise\ProductAPI\ProductAPI\obj\Debug\netcoreapp3.1\ProductAPI.AssemblyInfoInputs.cache
+D:\Practice\REST .NET Core API\Exercise\ProductAPI\ProductAPI\obj\Debug\netcoreapp3.1\ProductAPI.AssemblyInfo.cs
+D:\Practice\REST .NET Core API\Exercise\ProductAPI\ProductAPI\obj\Debug\netcoreapp3.1\ProductAPI.csproj.CoreCompileInputs.cache
+D:\Practice\REST .NET Core API\Exercise\ProductAPI\ProductAPI\obj\Debug\netcoreapp3.1\ProductAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Practice\REST .NET Core API\Exercise\ProductAPI\ProductAPI\obj\Debug\netcoreapp3.1\ProductAPI.dll
+D:\Practice\REST .NET Core API\Exercise\ProductAPI\ProductAPI\obj\Debug\netcoreapp3.1\ProductAPI.pdb
+D:\Practice\REST .NET Core API\Exercise\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Practice\REST .NET Core API\Exercise\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Practice\REST .NET Core API\Exercise\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\ProductAPI.exe
+D:\Practice\REST .NET Core API\Exercise\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\ProductAPI.deps.json
+D:\Practice\REST .NET Core API\Exercise\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\ProductAPI.runtimeconfig.json
+D:\Practice\REST .NET Core API\Exercise\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\ProductAPI.runtimeconfig.dev.json
+D:\Practice\REST .NET Core API\Exercise\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\ProductAPI.dll
+D:\Practice\REST .NET Core API\Exercise\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\ProductAPI.pdb
+D:\Practice\REST .NET Core API\Exercise\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Practice\REST .NET Core API\Exercise\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Practice\REST .NET Core API\Exercise\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Practice\REST .NET Core API\Exercise\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Practice\REST .NET Core API\Exercise\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Practice\REST .NET Core API\Exercise\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Practice\REST .NET Core API\Exercise\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Practice\REST .NET Core API\Exercise\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Practice\REST .NET Core API\Exercise\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Practice\REST .NET Core API\Exercise\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Practice\REST .NET Core API\Exercise\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Practice\REST .NET Core API\Exercise\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Practice\REST .NET Core API\Exercise\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\Practice\REST .NET Core API\Exercise\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Practice\REST .NET Core API\Exercise\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Practice\REST .NET Core API\Exercise\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Practice\REST .NET Core API\Exercise\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Practice\REST .NET Core API\Exercise\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Practice\REST .NET Core API\Exercise\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Practice\REST .NET Core API\Exercise\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Practice\REST .NET Core API\Exercise\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Practice\REST .NET Core API\Exercise\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Practice\REST .NET Core API\Exercise\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\Product.Data.dll
+D:\Practice\REST .NET Core API\Exercise\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\Product.Domain.dll
+D:\Practice\REST .NET Core API\Exercise\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\Product.Data.pdb
+D:\Practice\REST .NET Core API\Exercise\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\Product.Domain.pdb
+D:\Practice\REST .NET Core API\Exercise\ProductAPI\ProductAPI\obj\Debug\netcoreapp3.1\staticwebassets\ProductAPI.StaticWebAssets.Manifest.cache
+D:\Practice\REST .NET Core API\Exercise\ProductAPI\ProductAPI\obj\Debug\netcoreapp3.1\ProductAPI.RazorTargetAssemblyInfo.cache
+D:\Practice\REST .NET Core API\Exercise\ProductAPI\ProductAPI\obj\Debug\netcoreapp3.1\ProductAPI.csproj.CopyComplete
+D:\Practice\REST .NET Core API\Exercise\ProductAPI\ProductAPI\obj\Debug\netcoreapp3.1\ProductAPI.genruntimeconfig.cache
+D:\Practice\REST .NET Core API\Exercise\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\Product.Domain.Model.dll
+D:\Practice\REST .NET Core API\Exercise\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\Product.Domain.Model.pdb
+D:\Practice\REST .NET Core API\Exercise\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\Practice\REST .NET Core API\Exercise\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Practice\REST .NET Core API\Exercise\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Practice\REST .NET Core API\Exercise\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\Practice\REST .NET Core API\Exercise\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\Practice\REST .NET Core API\Exercise\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Practice\REST .NET Core API\Exercise\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Practice\REST .NET Core API\Exercise\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Practice\REST .NET Core API\Exercise\ProductAPI\ProductAPI\obj\Debug\netcoreapp3.1\ProductAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Practice\REST .NET Core API\Exercise\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+D:\Practice\REST .NET Core API\Exercise\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\System.Web.Http.dll
+D:\Practice\REST .NET Core API\Exercise\ProductAPI\ProductAPI\bin\Debug\netcoreapp3.1\AutoWrapper.dll
+D:\Practice\REST .NET Core API\Exercise\REST-API-.Net-Core\ProductAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Practice\REST .NET Core API\Exercise\REST-API-.Net-Core\ProductAPI\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Practice\REST .NET Core API\Exercise\REST-API-.Net-Core\ProductAPI\bin\Debug\netcoreapp3.1\ProductAPI.exe
+D:\Practice\REST .NET Core API\Exercise\REST-API-.Net-Core\ProductAPI\bin\Debug\netcoreapp3.1\ProductAPI.deps.json
+D:\Practice\REST .NET Core API\Exercise\REST-API-.Net-Core\ProductAPI\bin\Debug\netcoreapp3.1\ProductAPI.runtimeconfig.json
+D:\Practice\REST .NET Core API\Exercise\REST-API-.Net-Core\ProductAPI\bin\Debug\netcoreapp3.1\ProductAPI.runtimeconfig.dev.json
+D:\Practice\REST .NET Core API\Exercise\REST-API-.Net-Core\ProductAPI\bin\Debug\netcoreapp3.1\ProductAPI.dll
+D:\Practice\REST .NET Core API\Exercise\REST-API-.Net-Core\ProductAPI\bin\Debug\netcoreapp3.1\ProductAPI.pdb
+D:\Practice\REST .NET Core API\Exercise\REST-API-.Net-Core\ProductAPI\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\Practice\REST .NET Core API\Exercise\REST-API-.Net-Core\ProductAPI\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Practice\REST .NET Core API\Exercise\REST-API-.Net-Core\ProductAPI\bin\Debug\netcoreapp3.1\AutoWrapper.dll
+D:\Practice\REST .NET Core API\Exercise\REST-API-.Net-Core\ProductAPI\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+D:\Practice\REST .NET Core API\Exercise\REST-API-.Net-Core\ProductAPI\bin\Debug\netcoreapp3.1\System.Web.Http.dll
+D:\Practice\REST .NET Core API\Exercise\REST-API-.Net-Core\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\Practice\REST .NET Core API\Exercise\REST-API-.Net-Core\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Practice\REST .NET Core API\Exercise\REST-API-.Net-Core\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Practice\REST .NET Core API\Exercise\REST-API-.Net-Core\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Practice\REST .NET Core API\Exercise\REST-API-.Net-Core\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Practice\REST .NET Core API\Exercise\REST-API-.Net-Core\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Practice\REST .NET Core API\Exercise\REST-API-.Net-Core\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Practice\REST .NET Core API\Exercise\REST-API-.Net-Core\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Practice\REST .NET Core API\Exercise\REST-API-.Net-Core\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Practice\REST .NET Core API\Exercise\REST-API-.Net-Core\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Practice\REST .NET Core API\Exercise\REST-API-.Net-Core\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Practice\REST .NET Core API\Exercise\REST-API-.Net-Core\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Practice\REST .NET Core API\Exercise\REST-API-.Net-Core\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Practice\REST .NET Core API\Exercise\REST-API-.Net-Core\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Practice\REST .NET Core API\Exercise\REST-API-.Net-Core\ProductAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Practice\REST .NET Core API\Exercise\REST-API-.Net-Core\ProductAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\Practice\REST .NET Core API\Exercise\REST-API-.Net-Core\ProductAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Practice\REST .NET Core API\Exercise\REST-API-.Net-Core\ProductAPI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Practice\REST .NET Core API\Exercise\REST-API-.Net-Core\ProductAPI\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\Practice\REST .NET Core API\Exercise\REST-API-.Net-Core\ProductAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Practice\REST .NET Core API\Exercise\REST-API-.Net-Core\ProductAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Practice\REST .NET Core API\Exercise\REST-API-.Net-Core\ProductAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Practice\REST .NET Core API\Exercise\REST-API-.Net-Core\ProductAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Practice\REST .NET Core API\Exercise\REST-API-.Net-Core\ProductAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Practice\REST .NET Core API\Exercise\REST-API-.Net-Core\ProductAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Practice\REST .NET Core API\Exercise\REST-API-.Net-Core\ProductAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Practice\REST .NET Core API\Exercise\REST-API-.Net-Core\ProductAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Practice\REST .NET Core API\Exercise\REST-API-.Net-Core\ProductAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Practice\REST .NET Core API\Exercise\REST-API-.Net-Core\ProductAPI\bin\Debug\netcoreapp3.1\Product.Data.dll
+D:\Practice\REST .NET Core API\Exercise\REST-API-.Net-Core\ProductAPI\bin\Debug\netcoreapp3.1\Product.Domain.dll
+D:\Practice\REST .NET Core API\Exercise\REST-API-.Net-Core\ProductAPI\bin\Debug\netcoreapp3.1\Product.Domain.Model.dll
+D:\Practice\REST .NET Core API\Exercise\REST-API-.Net-Core\ProductAPI\bin\Debug\netcoreapp3.1\Product.Data.pdb
+D:\Practice\REST .NET Core API\Exercise\REST-API-.Net-Core\ProductAPI\bin\Debug\netcoreapp3.1\Product.Domain.Model.pdb
+D:\Practice\REST .NET Core API\Exercise\REST-API-.Net-Core\ProductAPI\bin\Debug\netcoreapp3.1\Product.Domain.pdb
+D:\Practice\REST .NET Core API\Exercise\REST-API-.Net-Core\ProductAPI\obj\Debug\netcoreapp3.1\ProductAPI.csproj.AssemblyReference.cache
+D:\Practice\REST .NET Core API\Exercise\REST-API-.Net-Core\ProductAPI\obj\Debug\netcoreapp3.1\ProductAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practice\REST .NET Core API\Exercise\REST-API-.Net-Core\ProductAPI\obj\Debug\netcoreapp3.1\ProductAPI.AssemblyInfoInputs.cache
+D:\Practice\REST .NET Core API\Exercise\REST-API-.Net-Core\ProductAPI\obj\Debug\netcoreapp3.1\ProductAPI.AssemblyInfo.cs
+D:\Practice\REST .NET Core API\Exercise\REST-API-.Net-Core\ProductAPI\obj\Debug\netcoreapp3.1\ProductAPI.csproj.CoreCompileInputs.cache
+D:\Practice\REST .NET Core API\Exercise\REST-API-.Net-Core\ProductAPI\obj\Debug\netcoreapp3.1\ProductAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Practice\REST .NET Core API\Exercise\REST-API-.Net-Core\ProductAPI\obj\Debug\netcoreapp3.1\ProductAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Practice\REST .NET Core API\Exercise\REST-API-.Net-Core\ProductAPI\obj\Debug\netcoreapp3.1\staticwebassets\ProductAPI.StaticWebAssets.Manifest.cache
+D:\Practice\REST .NET Core API\Exercise\REST-API-.Net-Core\ProductAPI\obj\Debug\netcoreapp3.1\ProductAPI.RazorTargetAssemblyInfo.cache
+D:\Practice\REST .NET Core API\Exercise\REST-API-.Net-Core\ProductAPI\obj\Debug\netcoreapp3.1\ProductAPI.csproj.CopyComplete
+D:\Practice\REST .NET Core API\Exercise\REST-API-.Net-Core\ProductAPI\obj\Debug\netcoreapp3.1\ProductAPI.dll
+D:\Practice\REST .NET Core API\Exercise\REST-API-.Net-Core\ProductAPI\obj\Debug\netcoreapp3.1\ProductAPI.pdb
+D:\Practice\REST .NET Core API\Exercise\REST-API-.Net-Core\ProductAPI\obj\Debug\netcoreapp3.1\ProductAPI.genruntimeconfig.cache
+C:\Users\shymaa.hassanin\Desktop\Shopping-List-with-React-ASP.NET-Core-master\Shopping-List-with-React-ASP.NET-Core-master\Product API\ProductAPI\obj\Debug\netcoreapp3.1\ProductAPI.csproj.AssemblyReference.cache
+C:\Users\shymaa.hassanin\Desktop\Shopping-List-with-React-ASP.NET-Core-master\Shopping-List-with-React-ASP.NET-Core-master\Product API\ProductAPI\obj\Debug\netcoreapp3.1\ProductAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shymaa.hassanin\Desktop\Shopping-List-with-React-ASP.NET-Core-master\Shopping-List-with-React-ASP.NET-Core-master\Product API\ProductAPI\obj\Debug\netcoreapp3.1\ProductAPI.AssemblyInfoInputs.cache
+C:\Users\shymaa.hassanin\Desktop\Shopping-List-with-React-ASP.NET-Core-master\Shopping-List-with-React-ASP.NET-Core-master\Product API\ProductAPI\obj\Debug\netcoreapp3.1\ProductAPI.AssemblyInfo.cs
+C:\Users\shymaa.hassanin\Desktop\Shopping-List-with-React-ASP.NET-Core-master\Shopping-List-with-React-ASP.NET-Core-master\Product API\ProductAPI\obj\Debug\netcoreapp3.1\ProductAPI.csproj.CoreCompileInputs.cache
+C:\Users\shymaa.hassanin\Desktop\Shopping-List-with-React-ASP.NET-Core-master\Shopping-List-with-React-ASP.NET-Core-master\Product API\ProductAPI\obj\Debug\netcoreapp3.1\ProductAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\shymaa.hassanin\Desktop\Shopping-List-with-React-ASP.NET-Core-master\Shopping-List-with-React-ASP.NET-Core-master\Product API\ProductAPI\obj\Debug\netcoreapp3.1\ProductAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\shymaa.hassanin\Desktop\Shopping-List-with-React-ASP.NET-Core-master\Shopping-List-with-React-ASP.NET-Core-master\Product API\ProductAPI\obj\Debug\netcoreapp3.1\ProductAPI.dll
+C:\Users\shymaa.hassanin\Desktop\Shopping-List-with-React-ASP.NET-Core-master\Shopping-List-with-React-ASP.NET-Core-master\Product API\ProductAPI\obj\Debug\netcoreapp3.1\ProductAPI.pdb
+C:\Users\shymaa.hassanin\Desktop\Shopping-List-with-React-ASP.NET-Core-master\Shopping-List-with-React-ASP.NET-Core-master\Product API\ProductAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\shymaa.hassanin\Desktop\Shopping-List-with-React-ASP.NET-Core-master\Shopping-List-with-React-ASP.NET-Core-master\Product API\ProductAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\shymaa.hassanin\Desktop\Shopping-List-with-React-ASP.NET-Core-master\Shopping-List-with-React-ASP.NET-Core-master\Product API\ProductAPI\bin\Debug\netcoreapp3.1\ProductAPI.exe
+C:\Users\shymaa.hassanin\Desktop\Shopping-List-with-React-ASP.NET-Core-master\Shopping-List-with-React-ASP.NET-Core-master\Product API\ProductAPI\bin\Debug\netcoreapp3.1\ProductAPI.deps.json
+C:\Users\shymaa.hassanin\Desktop\Shopping-List-with-React-ASP.NET-Core-master\Shopping-List-with-React-ASP.NET-Core-master\Product API\ProductAPI\bin\Debug\netcoreapp3.1\ProductAPI.runtimeconfig.json
+C:\Users\shymaa.hassanin\Desktop\Shopping-List-with-React-ASP.NET-Core-master\Shopping-List-with-React-ASP.NET-Core-master\Product API\ProductAPI\bin\Debug\netcoreapp3.1\ProductAPI.runtimeconfig.dev.json
+C:\Users\shymaa.hassanin\Desktop\Shopping-List-with-React-ASP.NET-Core-master\Shopping-List-with-React-ASP.NET-Core-master\Product API\ProductAPI\bin\Debug\netcoreapp3.1\ProductAPI.dll
+C:\Users\shymaa.hassanin\Desktop\Shopping-List-with-React-ASP.NET-Core-master\Shopping-List-with-React-ASP.NET-Core-master\Product API\ProductAPI\bin\Debug\netcoreapp3.1\ProductAPI.pdb
+C:\Users\shymaa.hassanin\Desktop\Shopping-List-with-React-ASP.NET-Core-master\Shopping-List-with-React-ASP.NET-Core-master\Product API\ProductAPI\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\shymaa.hassanin\Desktop\Shopping-List-with-React-ASP.NET-Core-master\Shopping-List-with-React-ASP.NET-Core-master\Product API\ProductAPI\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\shymaa.hassanin\Desktop\Shopping-List-with-React-ASP.NET-Core-master\Shopping-List-with-React-ASP.NET-Core-master\Product API\ProductAPI\bin\Debug\netcoreapp3.1\AutoWrapper.dll
+C:\Users\shymaa.hassanin\Desktop\Shopping-List-with-React-ASP.NET-Core-master\Shopping-List-with-React-ASP.NET-Core-master\Product API\ProductAPI\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\shymaa.hassanin\Desktop\Shopping-List-with-React-ASP.NET-Core-master\Shopping-List-with-React-ASP.NET-Core-master\Product API\ProductAPI\bin\Debug\netcoreapp3.1\System.Web.Http.dll
+C:\Users\shymaa.hassanin\Desktop\Shopping-List-with-React-ASP.NET-Core-master\Shopping-List-with-React-ASP.NET-Core-master\Product API\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\shymaa.hassanin\Desktop\Shopping-List-with-React-ASP.NET-Core-master\Shopping-List-with-React-ASP.NET-Core-master\Product API\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\shymaa.hassanin\Desktop\Shopping-List-with-React-ASP.NET-Core-master\Shopping-List-with-React-ASP.NET-Core-master\Product API\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\shymaa.hassanin\Desktop\Shopping-List-with-React-ASP.NET-Core-master\Shopping-List-with-React-ASP.NET-Core-master\Product API\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\shymaa.hassanin\Desktop\Shopping-List-with-React-ASP.NET-Core-master\Shopping-List-with-React-ASP.NET-Core-master\Product API\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\shymaa.hassanin\Desktop\Shopping-List-with-React-ASP.NET-Core-master\Shopping-List-with-React-ASP.NET-Core-master\Product API\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\shymaa.hassanin\Desktop\Shopping-List-with-React-ASP.NET-Core-master\Shopping-List-with-React-ASP.NET-Core-master\Product API\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\shymaa.hassanin\Desktop\Shopping-List-with-React-ASP.NET-Core-master\Shopping-List-with-React-ASP.NET-Core-master\Product API\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\shymaa.hassanin\Desktop\Shopping-List-with-React-ASP.NET-Core-master\Shopping-List-with-React-ASP.NET-Core-master\Product API\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\shymaa.hassanin\Desktop\Shopping-List-with-React-ASP.NET-Core-master\Shopping-List-with-React-ASP.NET-Core-master\Product API\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\shymaa.hassanin\Desktop\Shopping-List-with-React-ASP.NET-Core-master\Shopping-List-with-React-ASP.NET-Core-master\Product API\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\shymaa.hassanin\Desktop\Shopping-List-with-React-ASP.NET-Core-master\Shopping-List-with-React-ASP.NET-Core-master\Product API\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\shymaa.hassanin\Desktop\Shopping-List-with-React-ASP.NET-Core-master\Shopping-List-with-React-ASP.NET-Core-master\Product API\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\shymaa.hassanin\Desktop\Shopping-List-with-React-ASP.NET-Core-master\Shopping-List-with-React-ASP.NET-Core-master\Product API\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\shymaa.hassanin\Desktop\Shopping-List-with-React-ASP.NET-Core-master\Shopping-List-with-React-ASP.NET-Core-master\Product API\ProductAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\shymaa.hassanin\Desktop\Shopping-List-with-React-ASP.NET-Core-master\Shopping-List-with-React-ASP.NET-Core-master\Product API\ProductAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\shymaa.hassanin\Desktop\Shopping-List-with-React-ASP.NET-Core-master\Shopping-List-with-React-ASP.NET-Core-master\Product API\ProductAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\shymaa.hassanin\Desktop\Shopping-List-with-React-ASP.NET-Core-master\Shopping-List-with-React-ASP.NET-Core-master\Product API\ProductAPI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\shymaa.hassanin\Desktop\Shopping-List-with-React-ASP.NET-Core-master\Shopping-List-with-React-ASP.NET-Core-master\Product API\ProductAPI\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\shymaa.hassanin\Desktop\Shopping-List-with-React-ASP.NET-Core-master\Shopping-List-with-React-ASP.NET-Core-master\Product API\ProductAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\shymaa.hassanin\Desktop\Shopping-List-with-React-ASP.NET-Core-master\Shopping-List-with-React-ASP.NET-Core-master\Product API\ProductAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\shymaa.hassanin\Desktop\Shopping-List-with-React-ASP.NET-Core-master\Shopping-List-with-React-ASP.NET-Core-master\Product API\ProductAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\shymaa.hassanin\Desktop\Shopping-List-with-React-ASP.NET-Core-master\Shopping-List-with-React-ASP.NET-Core-master\Product API\ProductAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\shymaa.hassanin\Desktop\Shopping-List-with-React-ASP.NET-Core-master\Shopping-List-with-React-ASP.NET-Core-master\Product API\ProductAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\shymaa.hassanin\Desktop\Shopping-List-with-React-ASP.NET-Core-master\Shopping-List-with-React-ASP.NET-Core-master\Product API\ProductAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\shymaa.hassanin\Desktop\Shopping-List-with-React-ASP.NET-Core-master\Shopping-List-with-React-ASP.NET-Core-master\Product API\ProductAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\shymaa.hassanin\Desktop\Shopping-List-with-React-ASP.NET-Core-master\Shopping-List-with-React-ASP.NET-Core-master\Product API\ProductAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\shymaa.hassanin\Desktop\Shopping-List-with-React-ASP.NET-Core-master\Shopping-List-with-React-ASP.NET-Core-master\Product API\ProductAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\shymaa.hassanin\Desktop\Shopping-List-with-React-ASP.NET-Core-master\Shopping-List-with-React-ASP.NET-Core-master\Product API\ProductAPI\bin\Debug\netcoreapp3.1\Product.Data.dll
+C:\Users\shymaa.hassanin\Desktop\Shopping-List-with-React-ASP.NET-Core-master\Shopping-List-with-React-ASP.NET-Core-master\Product API\ProductAPI\bin\Debug\netcoreapp3.1\Product.Domain.dll
+C:\Users\shymaa.hassanin\Desktop\Shopping-List-with-React-ASP.NET-Core-master\Shopping-List-with-React-ASP.NET-Core-master\Product API\ProductAPI\bin\Debug\netcoreapp3.1\Product.Domain.Model.dll
+C:\Users\shymaa.hassanin\Desktop\Shopping-List-with-React-ASP.NET-Core-master\Shopping-List-with-React-ASP.NET-Core-master\Product API\ProductAPI\bin\Debug\netcoreapp3.1\Product.Data.pdb
+C:\Users\shymaa.hassanin\Desktop\Shopping-List-with-React-ASP.NET-Core-master\Shopping-List-with-React-ASP.NET-Core-master\Product API\ProductAPI\bin\Debug\netcoreapp3.1\Product.Domain.Model.pdb
+C:\Users\shymaa.hassanin\Desktop\Shopping-List-with-React-ASP.NET-Core-master\Shopping-List-with-React-ASP.NET-Core-master\Product API\ProductAPI\bin\Debug\netcoreapp3.1\Product.Domain.pdb
+C:\Users\shymaa.hassanin\Desktop\Shopping-List-with-React-ASP.NET-Core-master\Shopping-List-with-React-ASP.NET-Core-master\Product API\ProductAPI\obj\Debug\netcoreapp3.1\staticwebassets\ProductAPI.StaticWebAssets.Manifest.cache
+C:\Users\shymaa.hassanin\Desktop\Shopping-List-with-React-ASP.NET-Core-master\Shopping-List-with-React-ASP.NET-Core-master\Product API\ProductAPI\obj\Debug\netcoreapp3.1\ProductAPI.RazorTargetAssemblyInfo.cache
+C:\Users\shymaa.hassanin\Desktop\Shopping-List-with-React-ASP.NET-Core-master\Shopping-List-with-React-ASP.NET-Core-master\Product API\ProductAPI\obj\Debug\netcoreapp3.1\ProductAPI.csproj.CopyComplete
+C:\Users\shymaa.hassanin\Desktop\Shopping-List-with-React-ASP.NET-Core-master\Shopping-List-with-React-ASP.NET-Core-master\Product API\ProductAPI\obj\Debug\netcoreapp3.1\ProductAPI.genruntimeconfig.cache
+D:\ITWorx\Academy\2023\React\React Product APP\Product API\ProductAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\ITWorx\Academy\2023\React\React Product APP\Product API\ProductAPI\bin\Debug\netcoreapp3.1\appsettings.json
+D:\ITWorx\Academy\2023\React\React Product APP\Product API\ProductAPI\bin\Debug\netcoreapp3.1\ProductAPI.exe
+D:\ITWorx\Academy\2023\React\React Product APP\Product API\ProductAPI\bin\Debug\netcoreapp3.1\ProductAPI.deps.json
+D:\ITWorx\Academy\2023\React\React Product APP\Product API\ProductAPI\bin\Debug\netcoreapp3.1\ProductAPI.runtimeconfig.json
+D:\ITWorx\Academy\2023\React\React Product APP\Product API\ProductAPI\bin\Debug\netcoreapp3.1\ProductAPI.runtimeconfig.dev.json
+D:\ITWorx\Academy\2023\React\React Product APP\Product API\ProductAPI\bin\Debug\netcoreapp3.1\ProductAPI.dll
+D:\ITWorx\Academy\2023\React\React Product APP\Product API\ProductAPI\bin\Debug\netcoreapp3.1\ProductAPI.pdb
+D:\ITWorx\Academy\2023\React\React Product APP\Product API\ProductAPI\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\ITWorx\Academy\2023\React\React Product APP\Product API\ProductAPI\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\ITWorx\Academy\2023\React\React Product APP\Product API\ProductAPI\bin\Debug\netcoreapp3.1\AutoWrapper.dll
+D:\ITWorx\Academy\2023\React\React Product APP\Product API\ProductAPI\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+D:\ITWorx\Academy\2023\React\React Product APP\Product API\ProductAPI\bin\Debug\netcoreapp3.1\System.Web.Http.dll
+D:\ITWorx\Academy\2023\React\React Product APP\Product API\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\ITWorx\Academy\2023\React\React Product APP\Product API\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\ITWorx\Academy\2023\React\React Product APP\Product API\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ITWorx\Academy\2023\React\React Product APP\Product API\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\ITWorx\Academy\2023\React\React Product APP\Product API\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ITWorx\Academy\2023\React\React Product APP\Product API\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\ITWorx\Academy\2023\React\React Product APP\Product API\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ITWorx\Academy\2023\React\React Product APP\Product API\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ITWorx\Academy\2023\React\React Product APP\Product API\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\ITWorx\Academy\2023\React\React Product APP\Product API\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\ITWorx\Academy\2023\React\React Product APP\Product API\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\ITWorx\Academy\2023\React\React Product APP\Product API\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\ITWorx\Academy\2023\React\React Product APP\Product API\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\ITWorx\Academy\2023\React\React Product APP\Product API\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\ITWorx\Academy\2023\React\React Product APP\Product API\ProductAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\ITWorx\Academy\2023\React\React Product APP\Product API\ProductAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\ITWorx\Academy\2023\React\React Product APP\Product API\ProductAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\ITWorx\Academy\2023\React\React Product APP\Product API\ProductAPI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\ITWorx\Academy\2023\React\React Product APP\Product API\ProductAPI\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\ITWorx\Academy\2023\React\React Product APP\Product API\ProductAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\ITWorx\Academy\2023\React\React Product APP\Product API\ProductAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\ITWorx\Academy\2023\React\React Product APP\Product API\ProductAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\ITWorx\Academy\2023\React\React Product APP\Product API\ProductAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\ITWorx\Academy\2023\React\React Product APP\Product API\ProductAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\ITWorx\Academy\2023\React\React Product APP\Product API\ProductAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\ITWorx\Academy\2023\React\React Product APP\Product API\ProductAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\ITWorx\Academy\2023\React\React Product APP\Product API\ProductAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\ITWorx\Academy\2023\React\React Product APP\Product API\ProductAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\ITWorx\Academy\2023\React\React Product APP\Product API\ProductAPI\bin\Debug\netcoreapp3.1\Product.Data.dll
+D:\ITWorx\Academy\2023\React\React Product APP\Product API\ProductAPI\bin\Debug\netcoreapp3.1\Product.Domain.dll
+D:\ITWorx\Academy\2023\React\React Product APP\Product API\ProductAPI\bin\Debug\netcoreapp3.1\Product.Domain.Model.dll
+D:\ITWorx\Academy\2023\React\React Product APP\Product API\ProductAPI\bin\Debug\netcoreapp3.1\Product.Data.pdb
+D:\ITWorx\Academy\2023\React\React Product APP\Product API\ProductAPI\bin\Debug\netcoreapp3.1\Product.Domain.Model.pdb
+D:\ITWorx\Academy\2023\React\React Product APP\Product API\ProductAPI\bin\Debug\netcoreapp3.1\Product.Domain.pdb
+D:\ITWorx\Academy\2023\React\React Product APP\Product API\ProductAPI\obj\Debug\netcoreapp3.1\ProductAPI.csproj.AssemblyReference.cache
+D:\ITWorx\Academy\2023\React\React Product APP\Product API\ProductAPI\obj\Debug\netcoreapp3.1\ProductAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITWorx\Academy\2023\React\React Product APP\Product API\ProductAPI\obj\Debug\netcoreapp3.1\ProductAPI.AssemblyInfoInputs.cache
+D:\ITWorx\Academy\2023\React\React Product APP\Product API\ProductAPI\obj\Debug\netcoreapp3.1\ProductAPI.AssemblyInfo.cs
+D:\ITWorx\Academy\2023\React\React Product APP\Product API\ProductAPI\obj\Debug\netcoreapp3.1\ProductAPI.csproj.CoreCompileInputs.cache
+D:\ITWorx\Academy\2023\React\React Product APP\Product API\ProductAPI\obj\Debug\netcoreapp3.1\ProductAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\ITWorx\Academy\2023\React\React Product APP\Product API\ProductAPI\obj\Debug\netcoreapp3.1\ProductAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\ITWorx\Academy\2023\React\React Product APP\Product API\ProductAPI\obj\Debug\netcoreapp3.1\staticwebassets\ProductAPI.StaticWebAssets.Manifest.cache
+D:\ITWorx\Academy\2023\React\React Product APP\Product API\ProductAPI\obj\Debug\netcoreapp3.1\ProductAPI.RazorTargetAssemblyInfo.cache
+D:\ITWorx\Academy\2023\React\React Product APP\Product API\ProductAPI\obj\Debug\netcoreapp3.1\ProductAPI.csproj.CopyComplete
+D:\ITWorx\Academy\2023\React\React Product APP\Product API\ProductAPI\obj\Debug\netcoreapp3.1\ProductAPI.dll
+D:\ITWorx\Academy\2023\React\React Product APP\Product API\ProductAPI\obj\Debug\netcoreapp3.1\ProductAPI.pdb
+D:\ITWorx\Academy\2023\React\React Product APP\Product API\ProductAPI\obj\Debug\netcoreapp3.1\ProductAPI.genruntimeconfig.cache
