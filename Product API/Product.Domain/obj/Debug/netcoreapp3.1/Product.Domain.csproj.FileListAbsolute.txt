@@ -1,0 +1,52 @@
+D:\Practice\REST .NET Core API\Exercise\ProductAPI\Product.Domain\obj\Debug\netcoreapp3.1\Product.Domain.csproj.AssemblyReference.cache
+D:\Practice\REST .NET Core API\Exercise\ProductAPI\Product.Domain\obj\Debug\netcoreapp3.1\Product.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practice\REST .NET Core API\Exercise\ProductAPI\Product.Domain\obj\Debug\netcoreapp3.1\Product.Domain.AssemblyInfoInputs.cache
+D:\Practice\REST .NET Core API\Exercise\ProductAPI\Product.Domain\obj\Debug\netcoreapp3.1\Product.Domain.AssemblyInfo.cs
+D:\Practice\REST .NET Core API\Exercise\ProductAPI\Product.Domain\obj\Debug\netcoreapp3.1\Product.Domain.csproj.CoreCompileInputs.cache
+D:\Practice\REST .NET Core API\Exercise\ProductAPI\Product.Domain\bin\Debug\netcoreapp3.1\Product.Domain.deps.json
+D:\Practice\REST .NET Core API\Exercise\ProductAPI\Product.Domain\bin\Debug\netcoreapp3.1\Product.Domain.dll
+D:\Practice\REST .NET Core API\Exercise\ProductAPI\Product.Domain\bin\Debug\netcoreapp3.1\Product.Domain.pdb
+D:\Practice\REST .NET Core API\Exercise\ProductAPI\Product.Domain\obj\Debug\netcoreapp3.1\Product.Domain.csproj.CopyComplete
+D:\Practice\REST .NET Core API\Exercise\ProductAPI\Product.Domain\obj\Debug\netcoreapp3.1\Product.Domain.dll
+D:\Practice\REST .NET Core API\Exercise\ProductAPI\Product.Domain\obj\Debug\netcoreapp3.1\Product.Domain.pdb
+D:\Practice\REST .NET Core API\Exercise\ProductAPI\Product.Domain\bin\Debug\netcoreapp3.1\Product.Domain.Model.dll
+D:\Practice\REST .NET Core API\Exercise\ProductAPI\Product.Domain\bin\Debug\netcoreapp3.1\Product.Domain.Model.pdb
+D:\Practice\REST .NET Core API\Exercise\REST-API-.Net-Core\Product.Domain\bin\Debug\netcoreapp3.1\Product.Domain.deps.json
+D:\Practice\REST .NET Core API\Exercise\REST-API-.Net-Core\Product.Domain\bin\Debug\netcoreapp3.1\Product.Domain.dll
+D:\Practice\REST .NET Core API\Exercise\REST-API-.Net-Core\Product.Domain\bin\Debug\netcoreapp3.1\Product.Domain.pdb
+D:\Practice\REST .NET Core API\Exercise\REST-API-.Net-Core\Product.Domain\bin\Debug\netcoreapp3.1\Product.Domain.Model.dll
+D:\Practice\REST .NET Core API\Exercise\REST-API-.Net-Core\Product.Domain\bin\Debug\netcoreapp3.1\Product.Domain.Model.pdb
+D:\Practice\REST .NET Core API\Exercise\REST-API-.Net-Core\Product.Domain\obj\Debug\netcoreapp3.1\Product.Domain.csproj.AssemblyReference.cache
+D:\Practice\REST .NET Core API\Exercise\REST-API-.Net-Core\Product.Domain\obj\Debug\netcoreapp3.1\Product.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practice\REST .NET Core API\Exercise\REST-API-.Net-Core\Product.Domain\obj\Debug\netcoreapp3.1\Product.Domain.AssemblyInfoInputs.cache
+D:\Practice\REST .NET Core API\Exercise\REST-API-.Net-Core\Product.Domain\obj\Debug\netcoreapp3.1\Product.Domain.AssemblyInfo.cs
+D:\Practice\REST .NET Core API\Exercise\REST-API-.Net-Core\Product.Domain\obj\Debug\netcoreapp3.1\Product.Domain.csproj.CoreCompileInputs.cache
+D:\Practice\REST .NET Core API\Exercise\REST-API-.Net-Core\Product.Domain\obj\Debug\netcoreapp3.1\Product.Domain.csproj.CopyComplete
+D:\Practice\REST .NET Core API\Exercise\REST-API-.Net-Core\Product.Domain\obj\Debug\netcoreapp3.1\Product.Domain.dll
+D:\Practice\REST .NET Core API\Exercise\REST-API-.Net-Core\Product.Domain\obj\Debug\netcoreapp3.1\Product.Domain.pdb
+C:\Users\shymaa.hassanin\Desktop\Shopping-List-with-React-ASP.NET-Core-master\Shopping-List-with-React-ASP.NET-Core-master\Product API\Product.Domain\bin\Debug\netcoreapp3.1\Product.Domain.deps.json
+C:\Users\shymaa.hassanin\Desktop\Shopping-List-with-React-ASP.NET-Core-master\Shopping-List-with-React-ASP.NET-Core-master\Product API\Product.Domain\bin\Debug\netcoreapp3.1\Product.Domain.dll
+C:\Users\shymaa.hassanin\Desktop\Shopping-List-with-React-ASP.NET-Core-master\Shopping-List-with-React-ASP.NET-Core-master\Product API\Product.Domain\bin\Debug\netcoreapp3.1\Product.Domain.pdb
+C:\Users\shymaa.hassanin\Desktop\Shopping-List-with-React-ASP.NET-Core-master\Shopping-List-with-React-ASP.NET-Core-master\Product API\Product.Domain\bin\Debug\netcoreapp3.1\Product.Domain.Model.dll
+C:\Users\shymaa.hassanin\Desktop\Shopping-List-with-React-ASP.NET-Core-master\Shopping-List-with-React-ASP.NET-Core-master\Product API\Product.Domain\bin\Debug\netcoreapp3.1\Product.Domain.Model.pdb
+C:\Users\shymaa.hassanin\Desktop\Shopping-List-with-React-ASP.NET-Core-master\Shopping-List-with-React-ASP.NET-Core-master\Product API\Product.Domain\obj\Debug\netcoreapp3.1\Product.Domain.csproj.AssemblyReference.cache
+C:\Users\shymaa.hassanin\Desktop\Shopping-List-with-React-ASP.NET-Core-master\Shopping-List-with-React-ASP.NET-Core-master\Product API\Product.Domain\obj\Debug\netcoreapp3.1\Product.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shymaa.hassanin\Desktop\Shopping-List-with-React-ASP.NET-Core-master\Shopping-List-with-React-ASP.NET-Core-master\Product API\Product.Domain\obj\Debug\netcoreapp3.1\Product.Domain.AssemblyInfoInputs.cache
+C:\Users\shymaa.hassanin\Desktop\Shopping-List-with-React-ASP.NET-Core-master\Shopping-List-with-React-ASP.NET-Core-master\Product API\Product.Domain\obj\Debug\netcoreapp3.1\Product.Domain.AssemblyInfo.cs
+C:\Users\shymaa.hassanin\Desktop\Shopping-List-with-React-ASP.NET-Core-master\Shopping-List-with-React-ASP.NET-Core-master\Product API\Product.Domain\obj\Debug\netcoreapp3.1\Product.Domain.csproj.CoreCompileInputs.cache
+C:\Users\shymaa.hassanin\Desktop\Shopping-List-with-React-ASP.NET-Core-master\Shopping-List-with-React-ASP.NET-Core-master\Product API\Product.Domain\obj\Debug\netcoreapp3.1\Product.Domain.csproj.CopyComplete
+C:\Users\shymaa.hassanin\Desktop\Shopping-List-with-React-ASP.NET-Core-master\Shopping-List-with-React-ASP.NET-Core-master\Product API\Product.Domain\obj\Debug\netcoreapp3.1\Product.Domain.dll
+C:\Users\shymaa.hassanin\Desktop\Shopping-List-with-React-ASP.NET-Core-master\Shopping-List-with-React-ASP.NET-Core-master\Product API\Product.Domain\obj\Debug\netcoreapp3.1\Product.Domain.pdb
+D:\ITWorx\Academy\2023\React\React Product APP\Product API\Product.Domain\bin\Debug\netcoreapp3.1\Product.Domain.deps.json
+D:\ITWorx\Academy\2023\React\React Product APP\Product API\Product.Domain\bin\Debug\netcoreapp3.1\Product.Domain.dll
+D:\ITWorx\Academy\2023\React\React Product APP\Product API\Product.Domain\bin\Debug\netcoreapp3.1\Product.Domain.pdb
+D:\ITWorx\Academy\2023\React\React Product APP\Product API\Product.Domain\bin\Debug\netcoreapp3.1\Product.Domain.Model.dll
+D:\ITWorx\Academy\2023\React\React Product APP\Product API\Product.Domain\bin\Debug\netcoreapp3.1\Product.Domain.Model.pdb
+D:\ITWorx\Academy\2023\React\React Product APP\Product API\Product.Domain\obj\Debug\netcoreapp3.1\Product.Domain.csproj.AssemblyReference.cache
+D:\ITWorx\Academy\2023\React\React Product APP\Product API\Product.Domain\obj\Debug\netcoreapp3.1\Product.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITWorx\Academy\2023\React\React Product APP\Product API\Product.Domain\obj\Debug\netcoreapp3.1\Product.Domain.AssemblyInfoInputs.cache
+D:\ITWorx\Academy\2023\React\React Product APP\Product API\Product.Domain\obj\Debug\netcoreapp3.1\Product.Domain.AssemblyInfo.cs
+D:\ITWorx\Academy\2023\React\React Product APP\Product API\Product.Domain\obj\Debug\netcoreapp3.1\Product.Domain.csproj.CoreCompileInputs.cache
+D:\ITWorx\Academy\2023\React\React Product APP\Product API\Product.Domain\obj\Debug\netcoreapp3.1\Product.Domain.csproj.CopyComplete
+D:\ITWorx\Academy\2023\React\React Product APP\Product API\Product.Domain\obj\Debug\netcoreapp3.1\Product.Domain.dll
+D:\ITWorx\Academy\2023\React\React Product APP\Product API\Product.Domain\obj\Debug\netcoreapp3.1\Product.Domain.pdb
